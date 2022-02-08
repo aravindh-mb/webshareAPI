@@ -1,0 +1,26 @@
+body{
+        background:linear-gradient(
+            to bottom right,
+            #6889FF,#C668FF
+        );
+        height: 100vh;
+    }
+    button,img{
+        color:aliceblue;
+        width: 100px;
+        height:30px;
+        border: none;
+        border-radius: 2px;
+        background-color: #010207;
+        text-align: center;
+        margin-top: 260px;
+        font-family: sans-serif;
+        margin-left: 600px;
+    }
+    .share{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+  
+ 
